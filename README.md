@@ -45,11 +45,11 @@ When scoring nominations, provide scores that establish the rank of the nominati
 
 Candidates are evaluated and selected on the basis of the following three criteria, which are weighted equally by the selection committee:
 
-academic excellence;
-research potential; and
-leadership (potential and demonstrated ability).
+academic excellence (30%);
+research potential (40%); and
+leadership (potential and demonstrated ability) (30%).
 
-##  Academic excellence, as demonstrated by past academic results and by transcripts, awards and distinctions (0 to 3 points).
+##  Academic excellence, as demonstrated by past academic results and by transcripts, awards and distinctions.
 
 The candidate's research history and the impact of their activities in their area of expertise to date are important indicators of their potential as research leaders of tomorrow. Reviewers should consider the sphere of influence of candidates relative to others along the following continuum of expanding impact:
 
@@ -67,7 +67,7 @@ Supporting evidence to be evaluated for this criterion:
 * Scholarships/awards (CV)
 * Duration of previous studies (academic background, CV, institution transcripts and special circumstances)
 
-## Research potential, as demonstrated by the candidate's research history, his/her interest in discovery, the proposed research and its potential contribution to the advancement of knowledge in the field, and any anticipated outcomes  (0 to 4 points).
+## Research potential, as demonstrated by the candidate's research history, his/her interest in discovery, the proposed research and its potential contribution to the advancement of knowledge in the field, and any anticipated outcomes.
 
 Supporting evidence to be evaluated for this criterion:
 
@@ -78,7 +78,7 @@ Supporting evidence to be evaluated for this criterion:
 * Research proposal – feasibility, merit and significance (research proposal)
 * Critical thinking, application of knowledge, judgment, originality, initiative, autonomy and enthusiasm for research (description of leadership and communication skills attachment, research proposal and referee assessments)
 
-## Leadership (potential and demonstrated ability) (0 to 3 points):
+## Leadership (potential and demonstrated ability).
 
 This is an important criterion that has to be assessed in an indirect manner, since there is no opportunity for the selection committee to interview candidates.
 
