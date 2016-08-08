@@ -1,4 +1,4 @@
-# Graduate 2017 Questions
+# Graduate 2017 Application
 
 Criteria:
 
