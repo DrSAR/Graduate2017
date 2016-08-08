@@ -59,7 +59,7 @@ The candidate's research history and the impact of their activities in their are
 * International research community
 * Society at large
 
-In evaluating this criterion, both the prestige of the Vanier CGS and the stage and nature of the candidate's academic career should be considered. In the case of health professionals, consideration should be given to standards of research productivity, etc. for their level of experience/qualifications relative to a PhD student. For applicants who have relevant work experience, scientific productivity prior to graduate school should be considered.
+In evaluating this criterion, the stage and nature of the candidate's academic career should be considered.  For applicants who have relevant work experience, scientific productivity prior to graduate school should be considered.
 
 Supporting evidence to be evaluated for this criterion:
 
@@ -67,7 +67,7 @@ Supporting evidence to be evaluated for this criterion:
 * Scholarships/awards (CV)
 * Duration of previous studies (academic background, CV, institution transcripts and special circumstances)
 
-## Research potential, as demonstrated by the candidates research history, his/her interest in discovery, the proposed research and its potential contribution to the advancement of knowledge in the field, and any anticipated outcomes  (0 to 4 points).
+## Research potential, as demonstrated by the candidate's research history, his/her interest in discovery, the proposed research and its potential contribution to the advancement of knowledge in the field, and any anticipated outcomes  (0 to 4 points).
 
 Supporting evidence to be evaluated for this criterion:
 
@@ -76,7 +76,7 @@ Supporting evidence to be evaluated for this criterion:
 * Academic training and relevant work experience (CV, description of leadership and communication skills attachment and the referee assessments)
 * Contribution to research and development – publications, patents, reports and posters (CV, research contributions attachment and referee assessments)
 * Research proposal – feasibility, merit and significance (research proposal)
-* Critical thinking, application of knowledge, judgment, originality, initiative, autonomy and enthusiasm for research (description of leadership and communication skills attachment, referee assessments and nomination letter)
+* Critical thinking, application of knowledge, judgment, originality, initiative, autonomy and enthusiasm for research (description of leadership and communication skills attachment, research proposal and referee assessments)
 
 ## Leadership (potential and demonstrated ability) (0 to 3 points):
 
@@ -109,7 +109,7 @@ Other
 
 This list is not intended to include all possible categories and is provided for guidance only.
 
-## Assessment of leadership
+### Assessment of leadership
 
 Leadership could be assessed with the following personal and/or social skills:
 
