@@ -72,7 +72,7 @@ Supporting evidence to be evaluated for this criterion:
 Supporting evidence to be evaluated for this criterion:
 
 * Scholarships/awards (CV)
-* Duration of previous studies – ability to complete project within an appropriate time period (academic background, CCV, institution transcripts, referee assessments and special circumstances)
+* Duration of previous studies – ability to complete project within an appropriate time period (academic background, CV, institution transcripts, referee assessments and special circumstances)
 * Academic training and relevant work experience (CV, description of leadership and communication skills attachment and the referee assessments)
 * Contribution to research and development – publications, patents, reports and posters (CV, research contributions attachment and referee assessments)
 * Research proposal – feasibility, merit and significance (research proposal)
