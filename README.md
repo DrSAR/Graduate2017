@@ -2,9 +2,9 @@
 
 Criteria:
 
-* academic excellence
-* research potential, and 
-* leadership
+* academic excellence (30%)
+* research potential (40%), and 
+* leadership (30%)
 
 ## Attachment: Description of leadership and communication skills (maximum 1 page)
 
@@ -43,7 +43,7 @@ Enter the references/bibliography/citation of your research proposal. Limit the 
 
 When scoring nominations, provide scores that establish the rank of the nomination relative to the other nominations in the cohort.
 
-Candidates are evaluated and selected on the basis of the following three criteria, which are weighted equally by the selection committee:
+Candidates are evaluated and selected on the basis of the following three criteria, which are weighted by the selection accordingly committee:
 
 academic excellence (30%);
 research potential (40%); and
