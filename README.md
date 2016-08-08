@@ -8,7 +8,7 @@ Criteria:
 
 ## Attachment: Description of leadership and communication skills (maximum 1 page)
 
-Write a self-assessment detailing your academic and non-academic activities/accomplishments, your leadership activities, and why you judge yourself to be an excellent candidate for a graduate position at UBC in Physics and Astronomy . This description should go beyond a simple list of accomplishments; outline for the committee the ways in which these accomplishments demonstrate your leadership abilities and skills. Describe how your leadership skills have contributed to your accomplishments, for example: how you to created opportunities beyond those that were immediately available to you (due to employment, volunteerism, or circumstance); how you have motivated others to willingly collaborate on a project or enterprise; how you have taken on responsibility for a group, or any other ways in which you have effected change.
+Write a self-assessment detailing your academic and non-academic activities/accomplishments, your leadership activities, and why you judge yourself to be an excellent candidate for a graduate position at UBC in Physics and Astronomy. This description should go beyond a simple list of accomplishments; outline for the committee the ways in which these accomplishments demonstrate your leadership abilities and skills. Describe how your leadership skills have contributed to your accomplishments, for example: how you to created opportunities beyond those that were immediately available to you (due to employment, volunteerism, or circumstance); how you have motivated others to willingly collaborate on a project or enterprise; how you have taken on responsibility for a group, or any other ways in which you have effected change.
 
 For those whose Leadership experiences originate in work or volunteer opportunities, provide context for the selection committee that demonstrates how your contribution went beyond the expectations of your work/volunteer position. Your communication skills are reflected by the clarity of your application, which speaks to your leadership potential and demonstrated ability.
 
@@ -27,7 +27,7 @@ This element speaks directly to the following selection criterion: Research pote
 
 ## Research proposal (maximum 2 pages including graphs and images)
 
-All applicants provide a detailed description of a proposed research project for the degree for which you are applying:  i.e. the scope of the Master's thesis is smaller than of a doctoral dissertation.  We will be judging you on the quality of your plan and your presentation. You are not bound to pursue this particular topic at UBC.
+All applicants provide a detailed description of a proposed research project for the degree for which you are applying:  i.e. the scope of the Master's thesis is smaller than of a doctoral dissertation.  We will be judging you on the quality of your plan and your presentation. You are not bound to pursue this particular project at UBC.
 
 Be as specific as possible. Provide background information to position your proposed research within the context of the current knowledge in the field. State the objectives, hypothesis, research question and your specific role. Outline the experimental or theoretical approach to be taken (citing literature pertinent to the proposal), the methods and procedures to be used and the contribution of the project to the advancement of knowledge. 
 
@@ -49,7 +49,7 @@ academic excellence;
 research potential; and
 leadership (potential and demonstrated ability).
 
-##  Academic excellence, as demonstrated by past academic results and by transcripts, awards and distinctions.
+##  Academic excellence, as demonstrated by past academic results and by transcripts, awards and distinctions (0 to 3 points).
 
 The candidate's research history and the impact of their activities in their area of expertise to date are important indicators of their potential as research leaders of tomorrow. Reviewers should consider the sphere of influence of candidates relative to others along the following continuum of expanding impact:
 
@@ -67,7 +67,7 @@ Supporting evidence to be evaluated for this criterion:
 * Scholarships/awards (CV)
 * Duration of previous studies (academic background, CV, institution transcripts and special circumstances)
 
-## Research potential, as demonstrated by the candidates research history, his/her interest in discovery, the proposed research and its potential contribution to the advancement of knowledge in the field, and any anticipated outcomes.
+## Research potential, as demonstrated by the candidates research history, his/her interest in discovery, the proposed research and its potential contribution to the advancement of knowledge in the field, and any anticipated outcomes  (0 to 4 points).
 
 Supporting evidence to be evaluated for this criterion:
 
@@ -78,7 +78,7 @@ Supporting evidence to be evaluated for this criterion:
 * Research proposal – feasibility, merit and significance (research proposal)
 * Critical thinking, application of knowledge, judgment, originality, initiative, autonomy and enthusiasm for research (description of leadership and communication skills attachment, referee assessments and nomination letter)
 
-## Leadership (potential and demonstrated ability):
+## Leadership (potential and demonstrated ability) (0 to 3 points):
 
 This is an important criterion that has to be assessed in an indirect manner, since there is no opportunity for the selection committee to interview candidates.
 
