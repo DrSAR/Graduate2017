@@ -41,11 +41,9 @@ Enter the references/bibliography/citation of your research proposal. Limit the 
 
 # Graduate 2017 Rubric
 
-When scoring nominations, provide scores that establish the rank of the nomination relative to the other nominations in the cohort, keeping in mind the stage and nature of the candidate’s academic career. Nominations must receive a score of 3.1 or higher for each of the three criteria in order to be considered for funding.
+When scoring nominations, provide scores that establish the rank of the nomination relative to the other nominations in the cohort.
 
-Note: The "Application/Nomination instructions" summarizes the steps to be followed by applicants in completing and submitting their applications, including information on how each application element relates to the selection criteria. Members should read this information carefully and refer to it when evaluating the applications assigned to them.
-
-Candidates are evaluated and selected on the basis of the following three criteria, which are weighted equally by the selection committees:
+Candidates are evaluated and selected on the basis of the following three criteria, which are weighted equally by the selection committee:
 
 academic excellence;
 research potential; and
@@ -82,7 +80,7 @@ Supporting evidence to be evaluated for this criterion:
 
 ## Leadership (potential and demonstrated ability):
 
-Given the prestige of the Vanier CGS program, this is an important criterion that has to be assessed in an indirect manner, since there is no opportunity for the selection committee to interview candidates.
+This is an important criterion that has to be assessed in an indirect manner, since there is no opportunity for the selection committee to interview candidates.
 
 Leadership could include the following:
 
@@ -153,13 +151,10 @@ Social skills:
 * is well-respected; and
 * displays mastery of presentation skills and public communications.
 
-More information on leadership is available in the SSHRC-funded study, Leadership at the Graduate Studies and Postdoctoral Levels [ PDF (260 KB) ].
-
 Supporting evidence to be evaluated for this criterion:
 
-* Leadership activities/accomplishments - impact (CCV, description of leadership and communication skills, leadership reference letter, nomination letter and referee assessments)
-* Mobility: this award provides opportunities for research trainees to study, conduct research, and engage in knowledge mobilization in a national and international context. Candidates should explain the rationale behind their proposed research institution with this in mind. (nomination letter, research proposal)
-* Participation in publication writing (CCV, research contributions attachment and referee assessments)
-* Professional and extracurricular interactions and collaborations with supervisors, colleagues and peers (CCV, description of leadership and communication skills, leadership reference letter and referee assessments)
+* Leadership activities/accomplishments - impact (CV, description of leadership and communication skills, leadership reference letter, nomination letter and referee assessments)
+* Participation in publication writing (CV, research contributions attachment and referee assessments)
+* Professional and extracurricular interactions and collaborations with supervisors, colleagues and peers (CV, description of leadership and communication skills, leadership reference letter and referee assessments)
 * Those who have volunteer/professional experience outside of their domain of study should provide context that demonstrates how their contribution went beyond the expectations of the work/volunteer position.
 
