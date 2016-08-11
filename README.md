@@ -16,7 +16,7 @@ For those whose Leadership experiences originate in work or volunteer opportunit
 
 Describe your previous research experience, and how it is relevant to your graduate school goals.  As specifically as possible:
 * explain the research in terms that a trained scientist not familiar with the research can understand
-describe your own role in the research, indicating any collaboration with other researchers, and the form of that collaboration
+* describe your own role in the research, indicating any collaboration with other researchers, and the form of that collaboration
 * discuss the significance, relevance and impact of your work, including any publications or conference presentations that resulted from your efforts
 * describe the significance of your research experience in terms of demonstrating your research leadership 
 * discuss the impact and importance of these activities in terms of your career aspirations.
