@@ -1,11 +1,5 @@
 # Graduate 2017 Application
 
-Criteria:
-
-* academic excellence (30%)
-* research potential (40%), and 
-* leadership (30%)
-
 ## Attachment: Description of leadership and communication skills (maximum 1 page)
 
 Write a self-assessment detailing your academic and non-academic activities/accomplishments, your leadership activities, and why you judge yourself to be an excellent candidate for a graduate position at UBC in Physics and Astronomy. This description should go beyond a simple list of accomplishments.
@@ -46,9 +40,9 @@ Enter the references/bibliography/citation of your statement of research interes
 
 Candidates are evaluated and selected on the basis of the following three criteria, which are weighted by the selection  committee accordingly:
 
-academic excellence (30%);
-research potential (40%); and
-leadership (potential and demonstrated ability) (30%).
+* academic excellence (30%);
+* research potential (40%); and
+* leadership (potential and demonstrated ability) (30%).
 
 ##  Academic excellence, as demonstrated by past academic results and by transcripts, awards and distinctions.
 
