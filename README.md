@@ -30,15 +30,15 @@ This element speaks directly to the following selection criterion: Research pote
 
 ## Statement of Research Interests (maximum 2 pages including graphs and images)
 
-All applicants provide a detailed description of their research interests up to three research areas.  We will be judging you on the quality of your presentation. You are not bound to pursue these particular areas at UBC.
+All applicants provide a detailed description of their research interests up to three research areas; it is up to you whether to focus your presentation on a single area with greater detail or on several.  We will be judging you on the quality of your presentation. You are not bound to pursue these particular areas at UBC.  
 
-Be as specific as possible. Provide background information to support your interest in these particular areas, explain what you believe are the crucial questions to answer in these areas, substantiate what attracts you to this field and how your background positions you to contribute to answering these questions.
+Be as specific as possible. Provide background information to support your interest in these particular areas, explain what you believe are the crucial questions to answer in these areas, substantiate what attracts you to these fields and how your background positions you to contribute to answering these questions.
 
 Your communication skills are reflected by the clarity of the statement and speak to the research potential and leadership (potential and demonstrated ability) selection criteria.
 
 When writing your research proposal, employ the citation style common to your field of research. Do not use more than one citation style. Footnotes should be employed for citation purposes only, and should not elaborate on the information contained in the 2 page research proposal.
 
-Project references (maximum 5 pages)
+### Project references (maximum 5 pages)
 
 Enter the references/bibliography/citation of your statement of research interests. Limit the document to five pages. You must use this section to list publications and other works/sources that are cited in your research proposal.
 
