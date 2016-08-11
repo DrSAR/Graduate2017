@@ -8,7 +8,12 @@ Criteria:
 
 ## Attachment: Description of leadership and communication skills (maximum 1 page)
 
-Write a self-assessment detailing your academic and non-academic activities/accomplishments, your leadership activities, and why you judge yourself to be an excellent candidate for a graduate position at UBC in Physics and Astronomy. This description should go beyond a simple list of accomplishments; outline for the committee the ways in which these accomplishments demonstrate your leadership abilities and skills. Describe how your leadership skills have contributed to your accomplishments, for example: how you to created opportunities beyond those that were immediately available to you (due to employment, volunteerism, or circumstance); how you have motivated others to willingly collaborate on a project or enterprise; how you have taken on responsibility for a group, or any other ways in which you have effected change.
+Write a self-assessment detailing your academic and non-academic activities/accomplishments, your leadership activities, and why you judge yourself to be an excellent candidate for a graduate position at UBC in Physics and Astronomy. This description should go beyond a simple list of accomplishments.
+* Outline for the committee the ways in which these accomplishments demonstrate your leadership abilities and skills.
+* Describe how your leadership skills have contributed to your accomplishments, for example: 
+  * How you to created opportunities beyond those that were immediately available to you (due to employment, volunteerism, or circumstance); 
+  * How you have motivated others to willingly collaborate on a project or enterprise; 
+  * How you have taken on responsibility for a group, or any other ways in which you have effected change.
 
 For those whose Leadership experiences originate in work or volunteer opportunities, provide context for the selection committee that demonstrates how your contribution went beyond the expectations of your work/volunteer position. Your communication skills are reflected by the clarity of your application, which speaks to your leadership potential and demonstrated ability.
 
