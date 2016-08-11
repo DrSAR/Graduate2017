@@ -23,19 +23,19 @@ describe your own role in the research, indicating any collaboration with other 
 
 This element speaks directly to the following selection criterion: Research potential and leadership (potential and demonstrated ability).
 
-## Research proposal (maximum 2 pages including graphs and images)
+## Statement of Research Interests (maximum 2 pages including graphs and images)
 
-All applicants provide a detailed description of a proposed research project for the degree for which you are applying:  i.e. the scope of the Master's thesis is smaller than of a doctoral dissertation.  We will be judging you on the quality of your plan and your presentation. You are not bound to pursue this particular project at UBC.
+All applicants provide a detailed description of their research interests up to three research areas.  We will be judging you on the quality of your presentation. You are not bound to pursue these particular areas at UBC.
 
-Be as specific as possible. Provide background information to position your proposed research within the context of the current knowledge in the field. State the objectives, hypothesis, research question and your specific role. Outline the experimental or theoretical approach to be taken (citing literature pertinent to the proposal), the methods and procedures to be used and the contribution of the project to the advancement of knowledge. 
+Be as specific as possible. Provide background information to support your interest in these particular areas, explain what you believe are the crucial questions to answer in these areas, substantiate what attracts you to this field and how your background positions you to contribute to answering these questions.
 
-Your communication skills are reflected by the clarity of the proposal and speak to the research potential and leadership (potential and demonstrated ability) selection criteria.
+Your communication skills are reflected by the clarity of the statement and speak to the research potential and leadership (potential and demonstrated ability) selection criteria.
 
 When writing your research proposal, employ the citation style common to your field of research. Do not use more than one citation style. Footnotes should be employed for citation purposes only, and should not elaborate on the information contained in the 2 page research proposal.
 
 Project references (maximum 5 pages)
 
-Enter the references/bibliography/citation of your research proposal. Limit the document to five pages. You must use this section to list publications and other works/sources that are cited in your research proposal.
+Enter the references/bibliography/citation of your statement of research interests. Limit the document to five pages. You must use this section to list publications and other works/sources that are cited in your research proposal.
 
 # Graduate 2017 Rubric
 
@@ -73,8 +73,8 @@ Supporting evidence to be evaluated for this criterion:
 * Duration of previous studies – ability to complete project within an appropriate time period (academic background, CV, institution transcripts, referee assessments and special circumstances)
 * Academic training and relevant work experience (CV, description of leadership and communication skills attachment and the referee assessments)
 * Contribution to research and development – publications, patents, reports and posters (CV, research contributions attachment and referee assessments)
-* Research proposal – feasibility, merit and significance (research proposal)
-* Critical thinking, application of knowledge, judgment, originality, initiative, autonomy and enthusiasm for research (description of leadership and communication skills attachment, research proposal and referee assessments)
+* Statement of Research Interests – feasibility, merit and significance (research proposal)
+* Critical thinking, application of knowledge, judgment, originality, initiative, autonomy and enthusiasm for research (description of leadership and communication skills attachment, statement of research interests and referee assessments)
 
 ## Leadership (potential and demonstrated ability).
 
