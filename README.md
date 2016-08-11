@@ -36,11 +36,11 @@ Be as specific as possible. Provide background information to support your inter
 
 Your communication skills are reflected by the clarity of the statement and speak to the research potential and leadership (potential and demonstrated ability) selection criteria.
 
-When writing your research proposal, employ the citation style common to your field of research. Do not use more than one citation style. Footnotes should be employed for citation purposes only, and should not elaborate on the information contained in the 2 page research proposal.
+When writing your statement of research interests, employ the citation style common to your field of research. Do not use more than one citation style. Footnotes should be employed for citation purposes only, and should not elaborate on the information contained in the two-page statement.
 
 ### Project references (maximum 5 pages)
 
-Enter the references/bibliography/citation of your statement of research interests. Limit the document to five pages. You must use this section to list publications and other works/sources that are cited in your research proposal.
+Enter the references/bibliography/citation of your statement of research interests. Limit the document to five pages. You must use this section to list publications and other works/sources that are cited in your statement of research interests.
 
 # Graduate 2017 Rubric
 
