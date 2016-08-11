@@ -12,15 +12,13 @@ Write a self-assessment detailing your academic and non-academic activities/acco
 
 For those whose Leadership experiences originate in work or volunteer opportunities, provide context for the selection committee that demonstrates how your contribution went beyond the expectations of your work/volunteer position. Your communication skills are reflected by the clarity of your application, which speaks to your leadership potential and demonstrated ability.
 
-## Attachment: Research contributions (maximum 1 page)
+## Attachment: Research experience (maximum 2 pages)
 
-From the research contributions listed in your CV, choose up to five that you judge to be the most significant and relevant to your research proposal. For each of these contributions:
-
-* describe your role in the research, including by clarifying your contribution to collaborative research and to the actual writing of joint publications;
-* discuss the reasons for selecting the medium (e.g., journal article, conference presentation, etc.) for mobilizing the research, if appropriate;
-* indicate any collaboration with other researchers and/or with other knowledge users from outside academia;
-* discuss the significance, relevance and impact of your work in relation to the social sciences and humanities, the natural sciences and engineering or to health-related fields and processes, if appropriate;
-describe their significance in terms of demonstrating your research leadership and sphere of influence at the institutional level and beyond; and,
+Describe your previous research experience, and how it is relevant to your graduate school goals.  As specifically as possible:
+* explain the research in terms that a trained scientist not familiar with the research can understand
+describe your own role in the research, indicating any collaboration with other researchers, and the form of that collaboration
+* discuss the significance, relevance and impact of your work, including any publications or conference presentations that resulted from your efforts
+* describe the significance of your research experience in terms of demonstrating your research leadership 
 * discuss the impact and importance of these activities in terms of your career aspirations.
 
 This element speaks directly to the following selection criterion: Research potential and leadership (potential and demonstrated ability).
