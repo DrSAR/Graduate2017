@@ -44,9 +44,8 @@ Enter the references/bibliography/citation of your statement of research interes
 
 # Graduate 2017 Rubric
 
-When scoring nominations, provide scores that establish the rank of the nomination relative to the other nominations in the cohort.
 
-Candidates are evaluated and selected on the basis of the following three criteria, which are weighted by the selection accordingly committee:
+Candidates are evaluated and selected on the basis of the following three criteria, which are weighted by the selection  committee accordingly:
 
 academic excellence (30%);
 research potential (40%); and
@@ -78,12 +77,12 @@ Supporting evidence to be evaluated for this criterion:
 * Duration of previous studies – ability to complete project within an appropriate time period (academic background, CV, institution transcripts, referee assessments and special circumstances)
 * Academic training and relevant work experience (CV, description of leadership and communication skills attachment and the referee assessments)
 * Contribution to research and development – publications, patents, reports and posters (CV, research contributions attachment and referee assessments)
-* Statement of Research Interests – feasibility, merit and significance (research proposal)
+* Statement of Research Interests – feasibility, merit and significance
 * Critical thinking, application of knowledge, judgment, originality, initiative, autonomy and enthusiasm for research (description of leadership and communication skills attachment, statement of research interests and referee assessments)
 
 ## Leadership (potential and demonstrated ability).
 
-This is an important criterion that has to be assessed in an indirect manner, since there is no opportunity for the selection committee to interview candidates.
+This is an important criterion that has to be assessed in an indirect manner.
 
 Leadership could include the following:
 
