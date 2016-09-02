@@ -22,9 +22,9 @@ Describe your previous research experience, and how it is relevant to your gradu
 
 This element speaks directly to the following selection criterion: Research potential and leadership (potential and demonstrated ability).
 
-## Statement of Research Interests (maximum 2 pages including graphs and images)
+## Statement of academic/professional goals
 
-All applicants provide a detailed description of their research interests up to three research areas; it is up to you whether to focus your presentation on a single area with greater detail or on several.  We will be judging you on the quality of your presentation. You are not bound to pursue these particular areas at UBC.  
+Please provide a detailed description of your research interests in up to three research areas; it is up to you whether to focus your presentation on a single area with greater detail or on several.  We will be judging you on the quality of your presentation. You are not bound to pursue these particular areas at UBC.  
 
 Be as specific as possible. Provide background information to support your interest in these particular areas, explain what you believe are the crucial questions to answer in these areas, substantiate what attracts you to these fields and how your background positions you to contribute to answering these questions.
 
